@@ -356,12 +356,13 @@ Full-Width Styles
  *******/
 .cg-body {
     font-family: 'Gotham SSm A', 'Gotham SSm B', Helvetica, Arial, sans-serif;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .tech-list {
     list-style-position: outside;
     list-style: none;
+    font-size: 12px;
 }
 
 .label {
